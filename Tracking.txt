@@ -1,0 +1,2 @@
+Hi,
+just trying to find out what is untraced in git 'u'.
