@@ -1,3 +1,4 @@
 Hi,
 just trying to find out what is untraced in git 'u'.
 After adding and commiting i learnt how to push all the changes i made in my local repository to remote repository(ie uploading in github webiste).
+new line added to pull to local repo
